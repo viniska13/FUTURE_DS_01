@@ -1,7 +1,7 @@
 # Business Sales Performance Analytics: Online Retail (Dec 2010 – Dec 2011)
 
 **Future Interns · Data Science & Analytics · Task 1**
-Intern: Viniska K S · CIN: FIT/OCT26/DS23848
+Intern: Viniska K S 
 
 > 📊 **Live dashboard (Tableau Public):** https://public.tableau.com/app/profile/viniska.k.s/viz/Online_Retail_17924908396200/Story1?publish=yes
 
